@@ -1,6 +1,6 @@
 # 0420-BCP
 
-Hello! This is where Sulamita and Noot will put all the material for BCP. If any of the links don't work don't hesitate to slack us and let us know.
+Hello! This is where Sulamita and Noor will put all the material for BCP. If any of the links don't work don't hesitate to slack us and let us know.
 
 <!-- [![Run on Repl.it](https://repl.it/badge/github/kyusulamita/0420-BCP)](https://repl.it/github/kyusulamita/0420-BCP) -->
 
