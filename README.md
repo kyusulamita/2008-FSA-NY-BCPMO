@@ -50,7 +50,7 @@ Hello! This is where Sulamita and Noor will put all the material for BCP. If any
 
 ## **01 Introduction and tidy code**
 
-<!-- **[Live Lecture](https://youtu.be/QKurwDWS8ds)** -->
+**[Live Lecture](https://youtu.be/liy1p-eE-h8)**
 
 [Workshop](https://learn.fullstackacademy.com/workshop/5ab7da028b8e9b000477fd36/content/5ab7dbafa468c900045db6ed/text)
 <!-- [Solutions](https://learn.fullstackacademy.com/workshop/5ab7da028b8e9b000477fd36/content/5ab7dc11a468c900045db703/text) -->
