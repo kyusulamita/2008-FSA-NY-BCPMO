@@ -63,3 +63,5 @@ Hello! This is where Sulamita and Noor will put all the material for BCP. If any
 
 1. [Indenting](01-tidy-code/01-indenting.js)
 2. [Variable Names](01-tidy-code/02-variable-names.js)
+
+## **02 Loops and Debugging**
