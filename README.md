@@ -7,9 +7,10 @@ Hello! This is where Sulamita and Noor will put all the material for BCP. If any
 ## Table of Contents
 
 1. [Introduction And Tidy Code](#01-introduction-and-tidy-code)
-<!-- 2. [Loops And Debugging](#02-loops-and-debugging)
+2. [Loops And Debugging](#02-loops-and-debugging)
 3. [Coercion And Truthiness](#03-coercion-and-truthiness)
 4. [Scope](#04-scope)
+<!-- 
 5. [Arrays I](#05-arrays-I)
 6. [Arrays II](#06-arrays-II)
 7. [Objects I](#07-objects-I)
@@ -63,3 +64,25 @@ Hello! This is where Sulamita and Noor will put all the material for BCP. If any
 
 1. [Indenting](01-tidy-code/01-indenting.js)
 2. [Variable Names](01-tidy-code/02-variable-names.js)
+
+## **04 Scope**
+
+<!-- **[Live Lecture](https://youtu.be/bkONsN8SqX0)** -->
+
+[Workshop](https://learn.fullstackacademy.com/workshop/5ac576417ec3340004bdddb4/content/5ac576417ec3340004bdddb9/text)
+
+<!-- [Solutions](https://learn.fullstackacademy.com/workshop/5ac576417ec3340004bdddb4/content/5ac576417ec3340004bdddba/text) -->
+
+### Notes
+
+[Full Notes](04-scope)
+
+1. [Global Scope](04-scope/01-global-scope.js)
+2. [Global Scope II](04-scope/02-global-scope-ii.js)
+3. [Functional Scope](04-scope/03-functional-scope.js)
+4. [Functional Scope II](04-scope/04-functional-scope-ii.js)
+5. [Functions and Parameters](04-scope/05-functions-and-parameters.js)
+6. [Nested Functions](04-scope/06-nested-functions.js)
+7. [Nested Functions II](04-scope/07-nested-functions-ii.js)
+8. [Block Scope](04-scope/08-block-scope.js)
+9. [Scope Best Practices](04-scope/09-scope-best-practices.js)
