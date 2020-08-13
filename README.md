@@ -65,6 +65,26 @@ Hello! This is where Sulamita and Noor will put all the material for BCP. If any
 1. [Indenting](01-tidy-code/01-indenting.js)
 2. [Variable Names](01-tidy-code/02-variable-names.js)
 
+
+## **02 Loops and Debugging**
+
+**[Live Lecture] (Noor forgot to record it)**
+
+[Workshop](https://learn.fullstackacademy.com/workshop/5ac57192f7ff470004a63148/content/5ac572977ec3340004bddd57/text)
+
+[Solutions](https://learn.fullstackacademy.com/workshop/5ac57192f7ff470004a63148/content/5ac57384f7ff470004a63170/text)
+
+## **03 Truthiness and Coercion**
+
+**[Live Lecture](https://www.youtube.com/watch?v=E4yvZnJHVpE&list=PL0WIJ4TTxWdtQoFjJ6MjQITjGCjct8XvN&index=2&t=0s)** 
+
+[Lecture Slides](00-slides/03-Coercion-and-Truthiness.pdf)
+
+[Workshop](https://learn.fullstackacademy.com/workshop/5f24c8acfc4e3d00048aed53/content/5f24c8acfc4e3d00048aed59/text)
+
+[Solutions](https://learn.fullstackacademy.com/workshop/5f24c8acfc4e3d00048aed53/content/5f24c8acfc4e3d00048aed5b/text)
+
+
 ## **04 Scope**
 
 <!-- **[Live Lecture](https://youtu.be/bkONsN8SqX0)** -->
