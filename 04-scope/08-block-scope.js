@@ -4,20 +4,15 @@
 //   let block = 'Jenny from the';
 //   console.log(block, 'block');
 // }
+
 // console.log(block);
 
 
 /* the pre-ES6 var keyword ignores block scope */
-// if (true) {
-//   var block = 'Jenny from the';
-//   console.log(block, 'block');
-// }
-// console.log(block);
 
-function myFunc() {
-  // const ket
+if (true) {
+  var block = 'Jenny from the';
+  console.log(block, 'block');
 }
+console.log(block);
 
-myFunc();
-
-console.log(key);
