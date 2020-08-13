@@ -74,10 +74,10 @@ Hello! This is where Sulamita and Noor will put all the material for BCP. If any
 
 ## **03 Truthiness and Coercion**
 
-**[Live Lecture] (https://www.youtube.com/watch?v=E4yvZnJHVpE&list=PL0WIJ4TTxWdtQoFjJ6MjQITjGCjct8XvN&index=2&t=0s)** 
+**[Live Lecture](https://www.youtube.com/watch?v=E4yvZnJHVpE&list=PL0WIJ4TTxWdtQoFjJ6MjQITjGCjct8XvN&index=2&t=0s)** 
 
 [Lecture Slides](00-slides/03-Coercion-and-Truthiness.pdf)
 
-[Workshop] (https://learn.fullstackacademy.com/workshop/5f24c8acfc4e3d00048aed53/content/5f24c8acfc4e3d00048aed59/text)
+[Workshop](https://learn.fullstackacademy.com/workshop/5f24c8acfc4e3d00048aed53/content/5f24c8acfc4e3d00048aed59/text)
 
 [Solutions](https://learn.fullstackacademy.com/workshop/5f24c8acfc4e3d00048aed53/content/5f24c8acfc4e3d00048aed5b/text)
