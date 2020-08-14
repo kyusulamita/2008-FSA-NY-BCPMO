@@ -88,7 +88,7 @@ Hello! This is where Sulamita and Noor will put all the material for BCP. If any
 
 ## **04 Scope**
 
-<!-- **[Live Lecture](https://youtu.be/bkONsN8SqX0)** -->
+**[Live Lecture](https://youtu.be/ziVfJDR9ZK0)**
 
 [Workshop](https://learn.fullstackacademy.com/workshop/5ac576417ec3340004bdddb4/content/5ac576417ec3340004bdddb9/text)
 

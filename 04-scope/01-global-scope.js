@@ -1,4 +1,7 @@
-// on the global scope
+// on the global scope'
+
+console.log('outer', global);
+
 let global = 'hamster';
 
 console.log('outer', global);
