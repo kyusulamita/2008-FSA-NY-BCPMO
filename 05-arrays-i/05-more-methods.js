@@ -3,13 +3,14 @@
 /* 
   .indexOf is also an array method, 
   and works the same way as the string method of the same name 
+  @param elemToLookFor
+  @param strIdx
   learn more: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/slice
 
 */
 
 // let names = ["Mr Bear", "Pusheen", "Planty", "Mr Sheep"];
 // console.log(names.indexOf("Planty"));
-// console.log(names.indexOf("Pusheen"));
 // console.log(names.indexOf("Pusheen"));
 
 // console.log(names.indexOf("Mr"));
@@ -21,11 +22,11 @@
   learn more: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/includes
 */
 
-// let names = ["Mr Bear", "Pusheen", "Planty", "Mr Sheep"];
-// console.log(names.includes("Planty"));
-// console.log(names.includes("Pusheen"));
-// console.log(names.includes("Pusheen", 2));
-// console.log(names.includes("Mr"));
+let names = ["Mr Bear", "Pusheen", "Planty", "Mr Sheep"];
+console.log(names.includes("Planty"));
+console.log(names.includes("Pusheen"));
+console.log(names.includes("Pusheen", -3)); // names.length - 3
+console.log(names.includes("Mr"));
 
 
 // if (!names.includes("Pusheen")){

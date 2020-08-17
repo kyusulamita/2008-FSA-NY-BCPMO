@@ -7,6 +7,7 @@
 */
 // let names = ['Mr Bear', 'Pusheen', 'Planty'];
 // let newLength = names.push('Mr Sheep', 'Thomas');
+// names.push('Theodore');
 // console.log(names);
 // console.log(newLength);
 // console.log(names.length);
@@ -24,16 +25,14 @@
 // console.log(names);
 // console.log(mrSheep);
 
-// const mr = "Mr"
-// mr += " Bear";
-// const mrBear = mr + " Bear"
-// console.log(mrBear)
+
 
 
 
 /* 
   mutating an array vs reassigning
 */
+
 // const names = ["Mr Bear", "Pusheen", "Planty", "Mr Sheep"];
 
 // names = [];

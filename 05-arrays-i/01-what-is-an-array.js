@@ -13,6 +13,7 @@ let mixedBag = [ 30 , true, 'apples', null, strVar, numVar ];
 /* the values inside of an array are called elements */
 
 console.log(typeof petNames);
+// "object"
 
 let names = ['George', 'John', 'Thomas'];
 console.log(Array.isArray(names));

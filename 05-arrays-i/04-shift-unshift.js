@@ -15,8 +15,8 @@
 // console.log(names);
 // console.log(newLength);
 
-// names.unshift("Theodore")
-// console.log(names)
+// names.unshift("Theodore");
+// console.log(names);
 
 
 /* 
