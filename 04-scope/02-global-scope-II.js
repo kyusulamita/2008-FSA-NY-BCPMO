@@ -3,9 +3,9 @@
 // let waitForIt = 'here I am';
 // console.log(waitForIt);
 
-// console.log(waitForIt2);
-// var waitForIt2 = 'here I am';
-// console.log(waitForIt2);
+console.log(waitForIt2);
+var waitForIt2 = 'here I am';
+console.log(waitForIt2);
 
 // helloFunction();
 
