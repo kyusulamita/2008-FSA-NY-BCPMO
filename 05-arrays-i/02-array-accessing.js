@@ -1,4 +1,3 @@
-/* eslint-disable quotes */
 /* 
   Accessing values
 */
@@ -24,7 +23,7 @@
 /*
 
   Arrays, like strings, have a length property 
-  https://repl.it/@kyusulamita/TroubledFocusedReentrant
+  https://goo.gl/SJe7Yi
 */
 
 let names = ["Mr Bear", "Pusheen", "Planty", "Mr Sheep"];
