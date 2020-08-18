@@ -110,7 +110,7 @@ Hello! This is where Sulamita and Noor will put all the material for BCP. If any
 
 ## **05 Arrays I**
 
-<!-- **[Live Lecture](https://youtu.be/-cBLRWtSF6g)** -->
+**[Live Lecture](https://youtu.be/SMKBs9ujpoQ)**
 
 [Workshop](https://learn.fullstackacademy.com/workshop/5ac57806bd9f9e0004adb186/content/5ac57806bd9f9e0004adb18b/text)
 
@@ -125,3 +125,4 @@ Hello! This is where Sulamita and Noor will put all the material for BCP. If any
 4. [Shift + Unshift](05-array-i/04-shift-unshift.js)
 5. [More methods](05-array-i/05-more-methods.js)
 6. [Slice + Reverse](05-array-i/06-slice.js)
+7. [Splice Sneak Peak](/05-arrays-i/07-splice-sneak-peak.js)
