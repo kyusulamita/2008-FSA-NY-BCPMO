@@ -9,9 +9,7 @@ let pusheen = {
   name: 'Pusheen',
   age: 7,
   color: 'gray and tabby',
-  siblings: {
-    sister: 'Pip'
-  },
+  siblings: 'sister',
 };
 
 console.log('name' in pusheen); // true
@@ -22,4 +20,4 @@ const keyToLookFor = 'age';
 console.log(keyToLookFor in pusheen); // true
 
 
-console.log(name in pusheen); // reference error
+// console.log(name in pusheen); // reference error

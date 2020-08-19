@@ -13,7 +13,7 @@ https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects
 // const arrOfKeys = Object.keys(pusheen);
 // console.log(arrOfKeys);
 
-// // // // key => value
+// // // // // key => value
 // for (let i = 0; i < arrOfKeys.length; i++){
 //   const key = arrOfKeys[i];
 //   // console.log('The key at index i', i , "is", key);
@@ -32,6 +32,7 @@ use Object.values() to get an array of the values in the object
 //   age: 7,
 //   color: 'gray and tabby'
 // };
+
 
 // const arrOfValues = Object.values(pusheen);
 // console.log(arrOfValues);
@@ -55,20 +56,20 @@ use Object.values() to get an array of the values in the object
   ]
 */
 
-// let pusheen = {
-//   name: 'Pusheen',
-//   age: 7,
-//   isHappy: true,
-//   color: 'gray and tabby'
-// };
+let pusheen = {
+  name: 'Pusheen',
+  age: 7,
+  isHappy: true,
+  color: 'gray and tabby'
+};
 
-// const arrOfEntries = Object.entries(pusheen);
-// console.log(arrOfEntries);
+const arrOfEntries = Object.entries(pusheen);
+console.log(arrOfEntries);
 
 
-// for (let i = 0; i < arrOfEntries.length; i++){
-//   const entry = arrOfEntries[i];
-//   const key = entry[0];
-//   const value = entry[1];
-//   console.log(key, value)
-// }
+for (let i = 0; i < arrOfEntries.length; i++){
+  const entry = arrOfEntries[i];
+  const key = entry[0];
+  const value = entry[1];
+  console.log(key, value)
+}

@@ -23,24 +23,24 @@ is the same as:
 
 */
 
-// let pusheenTheSecond = {
-//   "name": 'Pusheen II',
-//   "age": 7,
-//   "colour": 'gray and tabby',
-//   "isHappy": true,
-// };
+let pusheenTheSecond = {
+  "name": 'Pusheen II',
+  "age": 7,
+  "colour": 'gray and tabby',
+  "isHappy": true,
+};
 
 
 /*
   avoid mixing both formats though :( Not good practice
 */
 
-// let pusheenTheThird = {
-//   "name": 'Pusheen III',
-//   age: 7,
-//   colour: 'gray and tabby',
-//   "isHappy": true,
-// }
+let pusheenTheThird = {
+  "name": 'Pusheen III',
+  age: 7,
+  colour: 'gray and tabby',
+  "isHappy": true,
+}
 
 
 //
@@ -54,6 +54,7 @@ is the same as:
 //   colour: 'gray and tabby',
 //   isHappy: true,
 //   favouriteFood: 'cookies',
+//   7: 'hamster',
 // };
 
 /* 
@@ -69,10 +70,11 @@ pass a string into the brackets that corresponds with a key in the object
 // console.log(pusheen['age']);
 // console.log(pusheen['colour']);
 // console.log(pusheen['notAKeyInTheObject']);
+// console.log(pusheen['7'])
 
 // let keyToCheck = 'name';
 // let word = 'favourite'
-// console.log(pusheen[keyToCheck]);
+// console.log(pusheen[keyToCheck]); // pusheen.name
 // console.log(pusheen['is' + 'Happy']); // isHappy
 // console.log(pusheen[word + 'Food']) //'favouriteFood'
 
@@ -92,13 +94,13 @@ let pusheen = {
 };
 
 let keyToCheck = 'name';
-// console.log(pusheen);
+// // console.log(pusheen);
 
 console.log(pusheen.age);
 console.log(pusheen.colour);
 
-// // YOU CAN NOT USE VARIABLES WITH DOT NOTATION !!
+// // // YOU CAN NOT USE VARIABLES WITH DOT NOTATION !!
 
 console.log(pusheen.keyToCheck); //undefined
-// // ! will not work
-console.log(pusheen.name); // no quotes needed with dot notation
+// // // ! will not work
+// console.log(pusheen.name); // no quotes needed with dot notation

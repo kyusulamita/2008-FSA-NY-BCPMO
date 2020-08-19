@@ -5,29 +5,25 @@
 */
 
 
-let pusheen = {
-  name: 'Pusheen',
-  age: 7,
-  colors: ['gray', 'tabby']
-};
+// let pusheen = {
+//   name: 'Pusheen',
+//   age: 7,
+//   colors: ['gray', 'tabby']
+// };
 
-console.log(pusheen.colors);
-// console.log(pusheen.colors[0]);
-// pusheen.colors.push('silver');
-// console.log(pusheen);
+// console.log(pusheen.colors[1]);
 
-const pusheenColors = pusheen.colors;
-// // console.log(pusheenColors[1]);
-pusheenColors.push('silver');
-console.log(pusheenColors);
+// const pusheenColors = pusheen.colors;
+// pusheenColors.push('silver');
+// console.log(pusheenColors);
 // let age = pusheen.age;
 // age = 45;
 // console.log(age);
 
-console.log(pusheen);
+// console.log(pusheen);
 
 
-const pusheenColors = pusheen.colors.slice();
+// const pusheenColors = pusheen.colors.slice();
 // pusheenColors.push('black');
 
 // console.log(pusheenColors);

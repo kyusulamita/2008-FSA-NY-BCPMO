@@ -39,7 +39,7 @@
 
   If only zoo inventory had used objects! Can you imagine what it would have looked like?
 
-  // ["Simba", ["Lion", 7]]
+  ["Simba", ["Lion", 7]]
   
   const animal = {
     name: "Simba",
