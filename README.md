@@ -126,3 +126,11 @@ Hello! This is where Sulamita and Noor will put all the material for BCP. If any
 5. [More methods](05-array-i/05-more-methods.js)
 6. [Slice + Reverse](05-array-i/06-slice.js)
 7. [Splice Sneak Peak](/05-arrays-i/07-splice-sneak-peak.js)
+
+## **06 Arrays II**
+
+**[Live Lecture] (https://youtu.be/UFnADdjSmf0)**
+
+[Workshop](https://learn.fullstackacademy.com/workshop/5ac579437ec3340004bdde15/content/5ac579437ec3340004bdde1a/text)
+
+[Solutions](https://learn.fullstackacademy.com/workshop/5ac579437ec3340004bdde15/content/5ac579437ec3340004bdde1b/text)
