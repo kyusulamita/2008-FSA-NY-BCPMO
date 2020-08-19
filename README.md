@@ -138,7 +138,7 @@ Hello! This is where Sulamita and Noor will put all the material for BCP. If any
 
 ## **07 Objects I**
 
-<!-- **[Live Lecture]()** -->
+**[Live Lecture](https://youtu.be/HV4be52JIC8)**
 
 [Workshop](https://learn.fullstackacademy.com/workshop/5ac57b3ebd9f9e0004adb210/content/5ac57b3ebd9f9e0004adb215/text)
 
