@@ -11,9 +11,9 @@ Hello! This is where Sulamita and Noor will put all the material for BCP. If any
 3. [Coercion And Truthiness](#03-coercion-and-truthiness)
 4. [Scope](#04-scope)
 5. [Arrays I](#05-arrays-I)
-<!-- 
 6. [Arrays II](#06-arrays-II)
 7. [Objects I](#07-objects-I)
+<!-- 
 8. [Objects II](#08-objects-II)
 9. [PBV vs PBR](#09-pass-by-value-pass-by-reference)
 10. [High Order Functions I](#10-high-order-functions-i)
@@ -129,8 +129,33 @@ Hello! This is where Sulamita and Noor will put all the material for BCP. If any
 
 ## **06 Arrays II**
 
-**[Live Lecture] (https://youtu.be/UFnADdjSmf0)**
+**[Live Lecture](https://youtu.be/UFnADdjSmf0)**
 
 [Workshop](https://learn.fullstackacademy.com/workshop/5ac579437ec3340004bdde15/content/5ac579437ec3340004bdde1a/text)
 
 [Solutions](https://learn.fullstackacademy.com/workshop/5ac579437ec3340004bdde15/content/5ac579437ec3340004bdde1b/text)
+
+
+## **07 Objects I**
+
+<!-- **[Live Lecture]()** -->
+
+[Workshop](https://learn.fullstackacademy.com/workshop/5ac57b3ebd9f9e0004adb210/content/5ac57b3ebd9f9e0004adb215/text)
+
+<!-- [Solutions](https://learn.fullstackacademy.com/workshop/5ac57b3ebd9f9e0004adb210/content/5ac57b3ebd9f9e0004adb216/text) -->
+
+### Notes
+
+[Full Notes](07-objects-i)
+
+0. [Code Snippets](07-objects-i/00-code-snippets.js)
+1. [What is an Object](07-objects-i/01-what-is-an-object.js)
+2. [Create And Access](07-objects-i/02-create-and-access.js)
+3. [New Key-Value Pairs](07-objects-i/03-new-key-value-pairs.js)
+4. [Delete Key-Value Pairs](07-objects-i/04-delete-key-value-pairs.js)
+5. [In Operator](07-objects-i/05-in-operator.js)
+6. [For In Loop](07-objects-i/06-for-in-loop.js)
+7. [Object Methods](07-objects-i/07-object-methods.js)
+8. [Nested Arrays](07-objects-i/08-nested-arrays.js)
+9. [Nested Objects](07-objects-i/09-nested-object.js)
+10. [Animal Noises Review](07-objects-i/10-animal-noises-review.js)
