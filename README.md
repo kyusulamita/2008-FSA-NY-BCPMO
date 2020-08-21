@@ -159,3 +159,11 @@ Hello! This is where Sulamita and Noor will put all the material for BCP. If any
 8. [Nested Arrays](07-objects-i/08-nested-arrays.js)
 9. [Nested Objects](07-objects-i/09-nested-object.js)
 10. [Animal Noises Review](07-objects-i/10-animal-noises-review.js)
+
+## **08 Object Methods**
+
+**[Live Lecture](https://www.youtube.com/watch?v=EYuzYKDvrQI&list=PL0WIJ4TTxWdtee2HemY1BhFwt46RTaFv0)**
+
+[Workshop](https://learn.fullstackacademy.com/workshop/5ac57cb8bd9f9e0004adb24a/content/5ac57cb8bd9f9e0004adb24e/text)
+
+[Solutions](https://learn.fullstackacademy.com/workshop/5ac57cb8bd9f9e0004adb24a/content/5ac57cb8bd9f9e0004adb250/text)
