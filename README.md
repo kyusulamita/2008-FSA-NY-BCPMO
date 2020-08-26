@@ -167,3 +167,11 @@ Hello! This is where Sulamita and Noor will put all the material for BCP. If any
 [Workshop](https://learn.fullstackacademy.com/workshop/5ac57cb8bd9f9e0004adb24a/content/5ac57cb8bd9f9e0004adb24e/text)
 
 [Solutions](https://learn.fullstackacademy.com/workshop/5ac57cb8bd9f9e0004adb24a/content/5ac57cb8bd9f9e0004adb250/text)
+
+## **10 Higher Order Functions I**
+
+**[Live Lecture](https://youtu.be/Q0d6Ti3Zbwo)
+
+[Workshop](https://learn.fullstackacademy.com/workshop/5aca3eba37312200043b62f7/content/5aca3eba37312200043b62fb/text)
+
+[Solutions](https://learn.fullstackacademy.com/workshop/5aca3eba37312200043b62f7/content/5aca3eba37312200043b62fd/text)
