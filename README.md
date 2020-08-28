@@ -178,4 +178,10 @@ Hello! This is where Sulamita and Noor will put all the material for BCP. If any
 
 ## **12 Recursion I**
 
+**[Live Lecture](https://youtu.be/0Yi34ueXEVo)
+
+[Workshop](https://learn.fullstackacademy.com/workshop/5aca423037312200043b634a/content/5aca423137312200043b634e/text)
+
+[Solutions](https://learn.fullstackacademy.com/workshop/5aca423037312200043b634a/content/5aca423137312200043b6350/text)
+
 **[Notes](00-slides/12-Recursion-I.pdf)
