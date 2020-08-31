@@ -17,3 +17,7 @@ function concatEls(array) {
 let result = concatEls(['a', 'b', 'c']);
 console.log(result);
 
+let result2 = concatEls(['a', ['b', 'c', 'd']]);
+console.log(result2);
+
+
